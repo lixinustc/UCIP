@@ -18,9 +18,6 @@ UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic 
 </p>
 
 
-##  :tada: Challenge Description
-
-
 ## :sparkles: Getting Start
 
 ### Prepare environment
