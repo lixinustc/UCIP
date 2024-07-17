@@ -7,7 +7,7 @@ UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic 
 # UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](xx)  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)](xx) [![Data](https://img.shields.io/badge/Dataset-Link-magenta.svg)](xx) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/UCIP)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/UCIP/)
 ## :bookmark: News!!!
 - [x] 2024-07-17: **Upload the whole processed dataset into google drive [link](xx).**
 - [x] 2024-07-: ** **
