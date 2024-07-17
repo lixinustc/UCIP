@@ -4,16 +4,13 @@ UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic 
   <img src="./figs/logo_competition.png" alt="image" style="width:1000px;">
 </p>
 
-# KVQ: Kwai Video Quality Assessment for Short-form Videos
+# UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2402.07220.pdf)  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)](https://lixinustc.github.io/projects/KVQ/) [![Data](https://img.shields.io/badge/Dataset-Link-magenta.svg)](https://drive.google.com/drive/folders/1dkC4NsxMrd6Rxm1IogKe71U8bYy76ojV?usp=sharing)
-[![Challenge](https://img.shields.io/badge/Competition-Codalab-purple.svg)](https://codalab.lisn.upsaclay.fr/competitions/17638) 
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](xx)  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)](xx) [![Data](https://img.shields.io/badge/Dataset-Link-magenta.svg)](xx) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/KVQ-Challenge-CVPR-NTIRE2024)
 ## :bookmark: News!!!
-- [x] 2024-03-03: **Upload an example for KVQ competition based on <a href="https://github.com/sunwei925/SimpleVQA">SimpleVQA</a> in this GitHub.**
-- [x] 2024-03-26: **Upload the validation metric for competition named "metric_score.py" and release the quality label for the validation dataset in [link](https://drive.google.com/drive/folders/1UXwNDJsiYxgrVScQp8sN31ltT7B6LcW-?usp=drive_link).**
-- [x] 2024-03-26: **We open the submission for the testing dataset in [Codalab](https://codalab.lisn.upsaclay.fr/competitions/17638), you can continue to validate your methods by submitting the results.** 
-- [ ] 2024-03-30: **The KSVQE of our work will be released after the test phase of the competition.**
+- [x] 2024-07-17: **Upload the whole processed dataset into google drive [link](xx).**
+- [x] 2024-07-: ** **
 
 ## 📌 Dataset for KVQ 
 <p align="center">
