@@ -12,7 +12,7 @@
 
 ## 📌 Dataset for UCIP 
 <p align="center">
-  <img src="xx" alt="image" style="width:1000px;">
+  <img src="./figs/UCSR_dataset" alt="image" style="width:1000px;">
 </p>
 
 
