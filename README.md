@@ -1,7 +1,7 @@
 # UCIP
 UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt
 <p align="center">
-  <img src="./figs/logo_competition.png" alt="image" style="width:1000px;">
+  <img src="./figs/UCIP.png" alt="image" style="width:1000px;">
 </p>
 
 # UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt (ECCV 2024)
