@@ -9,7 +9,7 @@
 ## :bookmark: News!!!
 - [x] 2024-07-17: **Upload the whole processed dataset into google drive [link](https://drive.google.com/file/d/1LwZiTOofyhJTZb3yILSC9mCX1gsxTdrA/view).**
 - [x] 2024-07-21: **Arxiv Version has been released.**
-- [ ] The code will be released soon.
+- [ ] The code will be released from Oct. to Nov..
 
 ## 📌 Dataset for UCIP 
 <p align="center">
